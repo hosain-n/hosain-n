@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @hosain-n
-- 👀 I’m interested in programing and unix like os like Linux
-- 📫 rahmatihosain3@gmail.com
+# HEllO 👋
 
 <!---
 hosain-n/hosain-n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
